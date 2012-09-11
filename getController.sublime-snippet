@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$o$1Controller = &getController('$1');]]></content>
+	<tabTrigger>getcontroller</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ getController()</description>
+</snippet>

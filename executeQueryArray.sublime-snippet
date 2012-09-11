@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+		<![CDATA[\$output = executeQueryArray('$1.$2', \$${3:args});
+if(!\$output->data) \$output->data = array();]]>
+	</content>
+	<tabTrigger>queryarray</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ executeQueryArray()</description>
+</snippet>

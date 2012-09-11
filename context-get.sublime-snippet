@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Context::get('$1');]]></content>
+	<tabTrigger>get</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ Context::get()</description>
+</snippet>

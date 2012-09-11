@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$vars = Context::getRequestVars();]]></content>
+	<tabTrigger>vars</tabTrigger>
+    <scope>source.php</scope>
+    <description>XE@ Context::getRequestVars()</description>
+</snippet>

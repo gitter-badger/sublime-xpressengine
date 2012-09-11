@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$o$1Model = &getModel('$1');]]></content>
+	<tabTrigger>getmodel</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ getModel()</description>
+</snippet>

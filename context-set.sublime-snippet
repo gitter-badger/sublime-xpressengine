@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Context::set('$1', \$$2);]]></content>
+	<tabTrigger>set</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ Context::set()</description>
+</snippet>

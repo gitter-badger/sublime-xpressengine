@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$output = executeQuery('$1.$2', \$${3:args});]]></content>
+	<tabTrigger>query</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ executeQuery()</description>
+</snippet>

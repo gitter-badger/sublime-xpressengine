@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<load target="$1" />]]></content>
+	<tabTrigger><![CDATA[<load]]></tabTrigger>
+	<scope>text.html</scope>
+	<description>XE</description>
+</snippet>

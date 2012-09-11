@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNextSequence();]]></content>
+	<tabTrigger>getseq</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ getNextSequence()</description>
+</snippet>

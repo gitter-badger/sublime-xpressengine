@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[debugPrint(\$${1:output});]]></content>
+	<tabTrigger>dp</tabTrigger>
+	<scope>source.php</scope>
+	<description>XE@ debugPrint()</description>
+</snippet>
