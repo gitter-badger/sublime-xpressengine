@@ -1,0 +1,27 @@
+{
+	"scope":"source.php - variable.other.php",
+	"completions":
+	[
+		"__XE__",
+		{"trigger":"__ZBXE__ (deprecated)", "contents":"__ZBXE__"},
+		"__XE_VERSION__",
+		{"trigger":"__ZBXE_VERSION__ (deprecated)", "contents":"__ZBXE_VERSION__"},
+		"_XE_PATH_",
+		"_XE_PACKAGE_",
+		"_XE_LOCATION_",
+		"_XE_LOCATION_SITE_",
+		"_XE_DOWNLOAD_SERVER_",
+		"__DEBUG__",
+		"__DEBUG_OUTPUT__",
+		"__DEBUG_PROTECT__",
+		"__DEBUG_PROTECT_IP__",
+		"__DEBUG_DB_OUTPUT__",
+		"__LOG_SLOW_QUERY__",
+		"__DEBUG_QUERY__",
+		"__OB_GZHANDLER_ENABLE__",
+		"__ENABLE_PHPUNIT_TEST__",
+		"__PROXY_SERVER__",
+		"__XE_CDN_PREFIX__",
+		"__XE_CDN_VERSION__"
+	]
+}
