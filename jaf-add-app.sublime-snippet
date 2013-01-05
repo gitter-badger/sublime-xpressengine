@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[var $1 = xe.createApp("$1", {
+	API_ONREADY : function() {
+		$2
+	}
+});
+xe.registerApp(new $1());]]></content>
+	<tabTrigger>jafapp</tabTrigger>
+	<scope>source.js</scope>
+	<description>XE JAF</description>
+</snippet>

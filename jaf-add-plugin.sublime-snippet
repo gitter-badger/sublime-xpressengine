@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[var $1 = xe.createPlugin("$1", {
+	API_ONREADY : function() {
+		$2
+	}
+});
+xe.registerPlugin(new $1());]]></content>
+	<tabTrigger>jafplugin</tabTrigger>
+	<scope>source.js</scope>
+	<description>XE JAF</description>
+</snippet>
